@@ -1,0 +1,3 @@
+C:\Users\U6106171\source\Practice\sharpbasics\obj\Debug\netcoreapp3.0\sharpbasics.csprojAssemblyReference.cache
+C:\Users\U6106171\source\Practice\sharpbasics\obj\Debug\netcoreapp3.0\sharpbasics.AssemblyInfoInputs.cache
+C:\Users\U6106171\source\Practice\sharpbasics\obj\Debug\netcoreapp3.0\sharpbasics.AssemblyInfo.cs
